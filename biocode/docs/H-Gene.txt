@@ -1,0 +1,2 @@
+Gene:
+A gene is a unit of heredity in a living organism. It is made up of DNA and codes for a specific protein or function.
