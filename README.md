@@ -33,3 +33,7 @@ Breaking changes, experimental features, and incomplete documentation
 
 Currently looking for Bug Hunters for my code. If you find any, feel free to reach out!
 
+
+
+**Ignore the random .py files at the bottom of the file list; only worry about the biocode folder and everything else**
+
